@@ -1,0 +1,193 @@
+<div class="wrapper">
+    <div class="card">
+        <input type="checkbox" id="card1" class="more" aria-hidden="true">
+        <div class="content">
+            <div class="front" style="background-image: url('https://i.ibb.co/0jpm2GZ/IMG-1159.jpg') ">
+                <div class="inner">
+                    <h2>Classic Lashes</h2>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                    </div>
+                    <label for="card1" class="button" aria-hidden="true">
+                        Details
+                    </label>
+            </div>
+        </div>
+        <div class="back">
+            <div class="inner">
+                <div class="info">
+                    <span>60</span>
+                    <div class="icon">
+                        <i class="fas fa-users"></i>
+                        <span>minutes</span>
+                    </div>
+                </div>
+                <div class="description">
+                    <p>A Classic Lash Look is the epitome of timeless elegance,
+                        offering a natural yet enhanced appearance.
+                    </p>
+                    <p>
+                        Using a 1:1 lash application method (one extension per natural lash),
+                        this style adds subtle length and volume, perfect for everyday wear or special occasions.
+                    </p>
+                </div>
+                <div class="title">Classic Look</div>
+                        <div class="price">€20</div>
+                        <label for="card1" class="button return" aria-hidden="true">
+                            <i class="fas fa-arrow-left"></i>
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <input type="checkbox" id="card2" class="more">
+        <div class="content">
+            <div class="front" style="background-image: url('https://i.ibb.co/HnGTRxZ/IMG-1165.jpg') ">
+                <div class="inner">
+                    <h2>Cat Eye Lashes</h2>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                    </div>
+                    <label for="card2" class="button" aria-hidden="true">
+                        Details
+                    </label>
+            </div>
+        </div>
+        <div class="back">
+            <div class="inner">
+                <div class="info">
+                    <span>90</span>
+                    <div class="icon">
+                        <i class="fas fa-users"></i>
+                        <span>minutes</span>
+                    </div>
+                </div>
+                <div class="description">
+                    <p>The Cat Eye Lash Look is a sultry, elongated style
+                        that creates a stunning lifted effect.
+                    </p>
+                    <p>
+                        This style tapers from shorter lashes on the inner
+                        corners thengradually increasing the length of lashes toward the outer corners.
+                         creating a sultry, winged-out allure.
+                    </p>
+                    <ul>
+                        <li>This chic look mimics the allure of a feline’s gaze, creating a sultry, winged-out allure.</li>
+                        <li>It’s perfect for enhancing your eyes with a flirtatious, elongated shape.</li>
+                    </ul>
+                </div>
+                <div class="title">Cat Eye Look</div>
+                        <div class="price">€30</div>
+                        <label for="card2" class="button return" aria-hidden="true">
+                            <i class="fas fa-arrow-left"></i>
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <input type="checkbox" id="card3" class="more">
+        <div class="content">
+            <div class="front" style="background-image: url('https://i.ibb.co/x83GXzF/IMG-4396.jpg') ">
+                <div class="inner">
+                    <h2>Wispy Lashes</h2>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                    </div>
+                    <label for="card3" class="button" aria-hidden="true">
+                        Details
+                    </label>
+            </div>
+        </div>
+        <div class="back">
+            <div class="inner">
+                <div class="info">
+                    <span>120</span>
+                    <div class="icon">
+                        <i class="fas fa-users"></i>
+                        <span>minutes</span>
+                    </div>
+                </div>
+                <div class="description">
+                    <p>The Wispy Lash Look is a stunning blend of soft, airy lashes and rich
+                         volume, designed to create a captivating, textured effect. With varying
+                         lengths that add dimension and movement, this style beautifully frames
+                         your eyes while maintaining a light, effortless feel.
+                    </p>
+                </div>
+                <div class="title">Wispy Look</div>
+                        <div class="price">€50</div>
+                        <label for="card3" class="button return" aria-hidden="true">
+                            <i class="fas fa-arrow-left"></i>
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+            </div>
+        </div>
+    </div>
+ <div class="card">
+        <input type="checkbox" id="card4" class="more">
+        <div class="content">
+            <div class="front" style="background-image: url('https://i.ibb.co/44hqc42/IMG-1161.jpg') ">
+                <div class="inner">
+                    <h2>Volume Lashes</h2>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                    </div>
+                    <label for="card4" class="button" aria-hidden="true">
+                        Details
+                    </label>
+            </div>
+        </div>
+        <div class="back">
+            <div class="inner">
+                <div class="info">
+                    <span>150</span>
+                    <div class="icon">
+                        <i class="fas fa-users"></i>
+                        <span>minutes</span>
+                    </div>
+                </div>
+                <div class="description">
+                    <p>The Volume Lash Look is all about creating bold, full lashes that make a statement. Using multiple lightweight lash extensions on each natural lash, this style delivers a dramatic yet soft appearance with enhanced thickness and depth.
+                    </p>
+                </div>
+                <div class="title">Volume Look</div>
+                        <div class="price">€60</div>
+                        <label for="card4" class="button return" aria-hidden="true">
+                            <i class="fas fa-arrow-left"></i>
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+            </div>
+        </div>
+    </div>
+
+</div>
